@@ -25,13 +25,9 @@
       "name": "Gavin Davies",
       "email": "gavin@radify.io",
       "web": "http://radify.io"
-    },
-    {
-      "name": "Warren Seymour",
-      "email": "warren@radify.io",
-      "web": "http://radify.io"
     }
   ],
+  "main": "src/angular-model.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/radify/angular-model.git"
